@@ -1,0 +1,128 @@
+
+@font-face {
+    font-family: 'DroidSans';
+    src: url(http://themes.googleusercontent.com/static/fonts/droidsans/v4/s-BiyweUPV0v-yRb-cjciBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+    font-family: 'DroidSansBold';
+    src: url(http://themes.googleusercontent.com/static/fonts/droidsans/v4/EFpQQyG9GqCrobXxL-KRMQFhaRv2pGgT5Kf0An0s4MM.woff) format('woff');
+}
+@font-face {
+    font-family: 'DroidSerif';
+    src: url(https://themes.googleusercontent.com/static/fonts/droidserif/v3/0AKsP294HTD-nvJgucYTaJ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'DroidSerifBold';
+    src: url(https://themes.googleusercontent.com/static/fonts/droidserif/v3/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
+}
+
+#page-join {
+    padding:40px 20px;
+	background:#328EBD;
+}
+
+#page-join ::-webkit-input-placeholder {font-family: 'DroidSans';font-weight:bold; }
+#page-join ::-moz-placeholder { font-family: 'DroidSans';font-weight:bold  }
+#page-join :-ms-input-placeholder { font-family: 'DroidSans'; font-weight:bold }
+#page-join input:-moz-placeholder { font-family: 'DroidSans'; font-weight:bold }
+
+
+#page-join .fa {
+    color: #696768;
+}
+
+.page-container {
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.button-group {
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.login-block {
+    background: #ADD2E5;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.login-block  input[type="text"], 
+.login-block  input[type="email"], 
+.login-block  input[type="password"] {
+    background: #DEECF5;
+    color: #70706F;
+    font-family: 'DroidSans';
+    font-size: 26px;
+    min-height: 65px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 5px 40px;
+}
+
+.login-button {
+    background: #ADD2E5;
+    color: #328EBD;
+    border: none;
+    font-family: 'DroidSans';
+    border-radius: 5px;
+    padding: 14px 35px;
+    font-size: 35px;
+    text-shadow: none;
+    min-width: 99px;
+    margin-right: 5px;
+}
+
+.login-button-active {
+    background:#537689;
+    color:#ffffff;
+}
+
+.login-button-submit{
+    background:#328EBD;
+    color:#ffffff;
+    text-shadow: none;
+    box-shadow: 1px 2px 0px #888888;
+}
+
+#page-join  hr {
+    color: white;
+    border-top: 3px solid #eee;
+}
+
+.login-block h4 {
+    color: #328EBD;
+    font-family: 'DroidSans';
+    font-size: 26px;
+    margin: 0 0 20px 0;
+}
+
+.social-button li a i {
+    padding: 10px;
+    font-size: 34px;
+    box-shadow: 1px 4px 0px #888888;
+    border-radius: 5px;
+    background: #DBE8F0;
+    min-width: 63px;
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.login-block p {
+    color: #71B0D2;
+    font-family: 'DroidSans';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.remember-me-block {
+	padding:15px;
+}
+
+.remember-me{
+    color:#fff;
+    font-family: 'DroidSans';
+    font-size:20px;
+    margin-left: 10px;
+}
