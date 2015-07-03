@@ -319,4 +319,15 @@ a.list-group-custom {
     font-weight: bold;
 }
 
+.header-one {
+    background:#E6F1F5;
+    padding:10px;
+    color:#3284B3;
+    margin-top:15px;
+    font-size: 26px;
+}
+
+#page-message-2, #page-message-3 {
+    background: #B8D3DE;
+}
 /*End*/
