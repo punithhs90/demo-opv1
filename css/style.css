@@ -327,6 +327,21 @@ a.list-group-custom {
 	
 }
 
+.send-button {
+    color: #ffffff;
+    text-shadow: none;
+    box-shadow: 1px 2px 0px #888888;
+    background: #328EBD;
+
+    border: none;
+    font-family: 'DroidSans';
+    border-radius: 5px;
+    padding: 5px 25px;
+    font-size: 25px;
+    min-width: 99px;
+    margin-right: 5px;
+}
+
 /* page 27 */
 .header-background{
     background-color: #3e8db8;
