@@ -271,4 +271,16 @@ span.hit-count {
 }
 
 
+.list-group-custom{
+    background-color: #328ebd !important;
+    border-top: 1px solid #ddd !important;
+    border-bottom: 1px solid #ddd !important;
+    border-left: 1px solid #328ebd !important;
+    border-right: 1px solid #328ebd !important;
 
+
+}
+
+a.list-group-custom {
+    color: #fff !important;
+}
