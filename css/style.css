@@ -514,3 +514,49 @@ a.list-group-custom {
     color: #3286B4;
     font-size: 18px;
 }
+
+#page-notification {
+    background: #B8D3DE;
+}
+
+.top-label {
+    padding-top: 12px;
+    font-weight: bold;
+}
+
+.notification-wrapper {
+    padding: 20px;
+    background: #E4EDF2;
+}
+
+.notification-wrapper p .glyphicon {
+    color: #2F86B1;
+    padding-top: 10px;
+    font-size: 19px;
+    float: right;
+    margin-right: 20px;
+}
+
+.notification-description {
+    font-family: 'DroidSans';
+    color: #434A54;
+    font-size: 24px;
+    margin: 0px 20px 10px 10px;
+    line-height: 100%;
+    position: relative;
+}
+
+.time-span {
+    font-size: 16px;
+}
+
+.dull .time-span,
+.dull .notification-description {
+    color: #81807E;
+}
+
+#page-notification .footer p {
+    padding: 10px;
+    color: #3286B4;
+    font-size: 18px;
+}
