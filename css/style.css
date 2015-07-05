@@ -16,6 +16,10 @@
     src: url(https://themes.googleusercontent.com/static/fonts/droidserif/v3/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
 }
 
+body {
+    background: #b4d2dc;
+}
+
 .clear{
     clear:both;
 }
@@ -607,4 +611,9 @@ a.list-group-custom {
 
 .form-row .send-button {
     margin-right: 10%;
+}
+
+
+.collections img{
+    width:25%;
 }
