@@ -560,3 +560,43 @@ a.list-group-custom {
     color: #3286B4;
     font-size: 18px;
 }
+
+#page-settingpage {
+    background: #b4d2dc;
+}
+
+#page-settingpage .top-label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form-settings {
+    background-color: #e2ecf1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.form-settings .form-row{
+    margin-bottom:15px;
+}
+
+.form-settings label {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-left:15px;
+    display: block;
+}
+
+.form-settings input{
+    background: #f3f7fa;
+    font-weight: bold;
+    font-size: 20px;
+    width: 90%;
+    display: inline;
+    margin-right: 10px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: 0;
+}
