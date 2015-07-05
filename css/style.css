@@ -16,6 +16,10 @@
     src: url(https://themes.googleusercontent.com/static/fonts/droidserif/v3/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
 }
 
+.clear{
+    clear:both;
+}
+
 #page-join {
     padding:40px 20px;
 	background:#328EBD;
@@ -572,7 +576,7 @@ a.list-group-custom {
 
 .form-settings {
     background-color: #e2ecf1;
-    padding: 10px;
+    padding: 20px 10px;
     border-radius: 5px;
     margin-bottom: 15px;
 }
@@ -599,4 +603,8 @@ a.list-group-custom {
     padding: 8px 15px;
     border-radius: 5px;
     border: 0;
+}
+
+.form-row .send-button {
+    margin-right: 10%;
 }
