@@ -285,6 +285,7 @@ span.hit-count {
   font-weight: bold;
   left: 76px;
   top: 16px;
+
 }
 
 .memorial-footer > div:last-child {
@@ -648,13 +649,13 @@ a.list-group-custom {
 }
 .img-width-height
 {
-    height: 150px;
-
+    height: 120px;
 }
 .display-inline
 {
     display: inline;
     font-size: 20px;
+    display: -webkit-box;
 }
 .img-padding
 {
@@ -668,16 +669,14 @@ a.list-group-custom {
 }
 .div-pading
 {
-    padding: 35px;
+    padding: 15px;
 }
 .text-area
 {
     width: 100%;
-
 }
-.text-padding
+.text-align
 {
-    padding: 15px;
     font-size: 20px;
     color: black;
 }
@@ -685,4 +684,42 @@ a.list-group-custom {
 {
     border-radius: 10px;
     float: right;
+    height: 30px;
+    width: 80px;
+    margin-top: -25px;
+}
+.img-user
+{
+    padding: 15px;
+}
+.hr-alighn
+{
+    /*margin-top: 0px;
+    color:red;
+    background-color: red;
+    border-top: none;*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+   border: none;
+    border-top: 1px solid #eee;
+}
+
+hr{border:none;}
+
+.div-border
+{
+    border:2px solid #308BB9;
+}
+.text-size
+{
+    font-size: 20px;
+    opacity: 1;
+    font-weight: bold;
+}
+.footer-margin
+{
+    margin-top: 50px;
+}
+.border-radiuss {
+    border:3px solid #308BB9;
 }
