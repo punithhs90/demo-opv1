@@ -210,8 +210,6 @@ body {
     transition: transform 0.4s;
 
 }
-
-
 .memorial-slider  figure:hover .top-image,
 .memorial-slider  figure:hover .thumb-image,
 .memorial-slider  figure.cs-hover .top-image,
@@ -612,8 +610,79 @@ a.list-group-custom {
 .form-row .send-button {
     margin-right: 10%;
 }
-
-
 .collections img{
     width:25%;
+}
+.tribute-header
+{
+    background-color: #338FBD;
+}
+.row-description {
+    background-color: #E6F1F5;
+    color: #338EBC;
+    font-size: 30px;
+    padding: 10px;
+    margin: 15px 0px;
+}
+.memorial-top
+{
+    margin-top: 10px;
+
+}
+.background-div
+{
+    background-color: #E6F1F5;
+}
+.relation-color
+{
+    background: #E4EEF0;
+}
+.margin-top
+{
+    margin-top: -10px;
+}
+.text-background
+{
+    background-color:#338FBD;
+    color:#fff;
+}
+.img-width-height
+{
+    height: 150px;
+
+}
+.display-inline
+{
+    display: inline;
+    font-size: 20px;
+}
+.img-padding
+{
+    padding: 15px;
+}
+.text-area {
+    width: 100%;
+    height: 100px;
+    text-align: justify;
+    font-size: 30px;
+}
+.div-pading
+{
+    padding: 35px;
+}
+.text-area
+{
+    width: 100%;
+
+}
+.text-padding
+{
+    padding: 15px;
+    font-size: 20px;
+    color: black;
+}
+.btn-post
+{
+    border-radius: 10px;
+    float: right;
 }
