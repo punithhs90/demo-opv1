@@ -694,32 +694,52 @@ a.list-group-custom {
 }
 .hr-alighn
 {
-    /*margin-top: 0px;
-    color:red;
-    background-color: red;
-    border-top: none;*/
-    margin-top: 0px;
-    margin-bottom: 0px;
-   border: none;
-    border-top: 1px solid #eee;
+    border-top: 2px solid #eee;
+}
+.hr-margin{
+    margin-top: 46px;
 }
 
 hr{border:none;}
 
 .div-border
 {
-    border:2px solid #308BB9;
+    border: 1px solid #308BB9;
 }
 .text-size
 {
-    font-size: 20px;
-    opacity: 1;
+    font-size: 15px;
+    opacity: 0.8;
     font-weight: bold;
+    padding: 5px;
 }
 .footer-margin
 {
     margin-top: 50px;
 }
 .border-radiuss {
-    border:3px solid #308BB9;
+    border:2px solid #308BB9;
 }
+.count-border
+{
+    border: 2px solid #308BB9;
+
+}
+.memorial-footer-margin
+{
+    margin-top: 50px;
+}
+.span.count {
+    position: relative;
+    font-weight: bold;
+    top: 16px;
+
+}
+.content-padding {
+    padding: 15px;
+}
+.img-width-height{
+    height:70px;
+    display: inline;
+}
+
